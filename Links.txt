@@ -1,0 +1,7 @@
+https://js.devexpress.com/Vue/Documentation/ApiReference/UI_Components/dxFileManager/Configuration/contextMenu/
+https://js.devexpress.com/Vue/Demos/WidgetsGallery/Demo/FileManager/Overview/MaterialBlueLight/
+
+https://js.devexpress.com/Vue/Demos/WidgetsGallery/Demo/FileManager/BindingToFileSystem/MaterialBlueLight/
+https://js.devexpress.com/Vue/Documentation/ApiReference/UI_Components/dxFileManager/?search=fyle%20system
+https://js.devexpress.com/Vue/Documentation/ApiReference/UI_Components/dxFileManager/File_System_Providers/Custom/
+https://js.devexpress.com/Vue/Demos/WidgetsGallery/Demo/FileManager/AzureServerBinding/MaterialBlueLight/
